@@ -12,8 +12,6 @@ class App extends Widget {
 
   @override
   Node render() {
-    return new Center(child: h('h1', {}, [text('FUCK YEAH!!!')]));
-
     return new Layout()
       ..add(new PageContent()
         ..add(h('div', {'style': 'padding: 1em;'}, [new BadgeExample()])));
