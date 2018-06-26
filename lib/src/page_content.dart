@@ -1,6 +1,7 @@
 import 'package:mariposa/mariposa.dart';
 import 'widget.dart';
 
+/*
 class PageContent extends MaterialWidget {
   @override
   Node render() {
@@ -11,3 +12,4 @@ class PageContent extends MaterialWidget {
     ]);
   }
 }
+*/

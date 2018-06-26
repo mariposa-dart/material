@@ -1,6 +1,7 @@
 import 'package:mariposa/mariposa.dart';
 import 'widget.dart';
 
+/*
 class Layout extends MaterialWidget {
   final bool fixedHeader;
 
@@ -20,3 +21,4 @@ class Layout extends MaterialWidget {
         content);
   }
 }
+*/

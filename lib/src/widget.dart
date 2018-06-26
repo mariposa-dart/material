@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'package:mariposa/mariposa.dart';
 
+/*
 abstract class MaterialWidget extends Widget {
   final StreamController _onRender = new StreamController();
 
@@ -21,3 +22,4 @@ abstract class MaterialWidget extends Widget {
   @override
   void afterRender($host) => _onRender.add($host);
 }
+*/
